@@ -10,7 +10,7 @@ function App() {
 		return digits;
 	}
 	return (
-		<div className="App">
+		<div className="fi-App">
 			<div className="fi-calculator">
 				<div className="fi-display">
 					<span>(0)</span> 0
